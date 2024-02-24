@@ -1,0 +1,8 @@
+com\cricket\livescore\dto\CricketInfoDto.class
+com\cricket\livescore\model\MatchStatus.class
+com\cricket\livescore\controller\MatchController.class
+com\cricket\livescore\model\CricketInfo.class
+com\cricket\livescore\repo\MatchRepo.class
+com\cricket\livescore\services\MatchService.class
+com\cricket\livescore\LiveScoreApplication.class
+com\cricket\livescore\util\MapperService.class
